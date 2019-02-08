@@ -1,0 +1,28 @@
+{
+  "name": "mern-book-search",
+  "version": "1.0.0",
+  "description": "Full Stack book search app using google api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvld/MERN-book-search.git"
+  },
+  "keywords": [
+    "MERN",
+    "GoogleBooksAPI"
+  ],
+  "author": "Niko Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvld/MERN-book-search/issues"
+  },
+  "homepage": "https://github.com/dvld/MERN-book-search#readme",
+  "dependencies": {
+    "concurrently": "^4.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
+  }
+}
